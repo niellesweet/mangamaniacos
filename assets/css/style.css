@@ -219,3 +219,23 @@ footer .footer-movil .logos-movil a{
     width: 90%;
     height: 322px;
 }
+.seccion-servicio{
+	min-height: 120vh;
+}
+.seccion-servicio .caja-servicio{
+	border: 3px solid black;
+	height: 6vh;
+	background-color: #00AAA0;
+
+}
+.seccion-servicio .texto-servicio a{
+	color: whitesmoke;
+	font-size: 24px;
+	margin-left: 40px;
+	margin-top: 10px;
+}
+.seccion-servicio .imagenes-servicio img{
+	width: 100%;
+	height: auto;
+	margin-top: 30px;
+}
