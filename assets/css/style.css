@@ -171,30 +171,30 @@ body{
 .second-section .imagenes-populares-movil .imagen .naruto{
 	height: 130px;
 }
-footer{
-	padding-top: 15px;
-	padding-bottom: 30px;
-	border: 3px solid #044343;
-	background-color: #045757;
+.caja-registro{
+	min-height: 70vh;
 }
-footer h3, footer h5{
-	color: grey;
+.seccion-registro .texto-registro{
+	border: 3px solid black;
+	height: 6vh;
+	background-color: #00AAA0;
 }
-footer .caja-final .caja-contacto a,
-footer .links-contacto li a{
+.seccion-registro .texto-registro a{
 	color: whitesmoke;
+	font-size: 24px;
+	margin-left: 40px;
+	margin-top: 10px;
 }
-footer .caja-logos a i{
-	color: whitesmoke;
-	font-size: 2rem;
+.caja-datos #lado{
+	width: 90%;
+    height: 30px;
 }
-footer .footer-movil .contacto-movil h3,
-footer .footer-movil .contacto-movil h5{
-	color: grey;
+.caja-datos .boton-sexo{
+	margin-left: 44px;
+	padding:5px;
 }
-footer .footer-movil .contacto-movil ul li a,
-footer .footer-movil .logos-movil a{
-	color: whitesmoke;
+.seccion-registro .btn-sm{
+	width: 100%;
 }
 .seccion-catalogo .texto-catalogo{
 	border: 3px solid black;
@@ -238,4 +238,29 @@ footer .footer-movil .logos-movil a{
 	width: 100%;
 	height: auto;
 	margin-top: 30px;
+}
+footer{
+	padding-top: 15px;
+	padding-bottom: 30px;
+	border: 3px solid #044343;
+	background-color: #045757;
+}
+footer h3, footer h5{
+	color: grey;
+}
+footer .caja-final .caja-contacto a,
+footer .links-contacto li a{
+	color: whitesmoke;
+}
+footer .caja-logos a i{
+	color: whitesmoke;
+	font-size: 2rem;
+}
+footer .footer-movil .contacto-movil h3,
+footer .footer-movil .contacto-movil h5{
+	color: grey;
+}
+footer .footer-movil .contacto-movil ul li a,
+footer .footer-movil .logos-movil a{
+	color: whitesmoke;
 }
