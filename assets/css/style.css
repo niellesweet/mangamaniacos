@@ -251,10 +251,13 @@ footer h3, footer h5{
 footer .caja-final .caja-contacto a,
 footer .links-contacto li a{
 	color: whitesmoke;
+	margin-top: 20px;
 }
+
 footer .caja-logos a i{
 	color: whitesmoke;
 	font-size: 2rem;
+	margin-bottom: 15px;
 }
 footer .footer-movil .contacto-movil h3,
 footer .footer-movil .contacto-movil h5,
