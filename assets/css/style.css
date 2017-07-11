@@ -257,7 +257,8 @@ footer .caja-logos a i{
 	font-size: 2rem;
 }
 footer .footer-movil .contacto-movil h3,
-footer .footer-movil .contacto-movil h5{
+footer .footer-movil .contacto-movil h5,
+footer .footer-movil .contacto-movil a{
 	color: grey;
 }
 footer .footer-movil .contacto-movil ul li a,
